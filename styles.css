@@ -1,17 +1,8 @@
 /*  your css code here. If applicable */
-body{
-	position:absolute;
-}
-img{
-	height:100%;
-	width:100%;
-}
-h1.fixed{
-	position: fixed;
-	top: 0;
-	left:20%;
-	right:20%;
+.container{
+	background-image:url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg');
+	height:100vh;
+	width:100vw;
+	text-align:center;
 	color:white;
-	
-	
 }
